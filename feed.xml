@@ -3,33 +3,12 @@
     <title>Portfolio</title>
     <link href="https://justincarlmonterey-cell.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://justincarlmonterey-cell.github.io/Portfolio" />
-    <updated>2026-11-15T16:30:27+08:00</updated>
+    <updated>2026-11-15T16:31:32+08:00</updated>
     <author>
         <name>Justin Monterey</name>
     </author>
     <id>https://justincarlmonterey-cell.github.io/Portfolio</id>
 
-    <entry>
-        <title>wanmore</title>
-        <author>
-            <name>Justin Monterey</name>
-        </author>
-        <link href="https://justincarlmonterey-cell.github.io/Portfolio/wanmore/"/>
-        <id>https://justincarlmonterey-cell.github.io/Portfolio/wanmore/</id>
-        <media:content url="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/49/4aecb747e5f6ba9d98c6b85b9c0e442a.jpg" medium="image" />
-
-        <updated>2026-11-15T16:28:05+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/49/4aecb747e5f6ba9d98c6b85b9c0e442a.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Test</title>
         <author>
@@ -37,13 +16,13 @@
         </author>
         <link href="https://justincarlmonterey-cell.github.io/Portfolio/test/"/>
         <id>https://justincarlmonterey-cell.github.io/Portfolio/test/</id>
-        <media:content url="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/48/1.png" medium="image" />
+        <media:content url="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/50/Main.png" medium="image" />
 
-        <updated>2026-11-15T16:21:55+08:00</updated>
+        <updated>2026-11-15T16:31:32+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/48/1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/50/Main.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     
@@ -229,6 +208,34 @@
   <p>
     
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>AUTO PAINTING SERVICES LOGO</title>
+        <author>
+            <name>Justin Monterey</name>
+        </author>
+        <link href="https://justincarlmonterey-cell.github.io/Portfolio/auto-painting-services-logo/"/>
+        <id>https://justincarlmonterey-cell.github.io/Portfolio/auto-painting-services-logo/</id>
+        <media:content url="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/JMONTEREY-LOGO-01.png" medium="image" />
+            <category term="GRAPHIC DESIGN"/>
+
+        <updated>2026-05-03T14:44:55+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/JMONTEREY-LOGO-01.png" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/JMONTEREY-VERS-1-logo.png" height="4531" width="10386" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-logo-xs.webp 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-logo-sm.webp 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-logo-md.webp 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-logo-lg.webp 1024w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/JMONTEREY-VERS-1.png" height="4531" width="10386" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-xs.webp 300w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-sm.webp 480w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-md.webp 768w ,https://justincarlmonterey-cell.github.io/Portfolio/media/posts/37/responsive/JMONTEREY-VERS-1-lg.webp 1024w">
+      
+    </figure>
             ]]>
         </content>
     </entry>

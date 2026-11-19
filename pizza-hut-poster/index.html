@@ -41,4 +41,13 @@ pre{
 	background-attachment: fixed; /* Keeps the image still while scrolling */
     filter: brightness (0.5);
 	cursor: url('favicon.png'), auto;
-}</style></div></main><footer class="footer"><div class="footer__copyright">All published works in this site are made by yours truly. Lorem ipsum dolor sit amet. I see you reading this hello! Now scram.. Website powered by Publii.</div><div class="footer__social"></div></footer></div><script defer="defer" src="https://justincarlmonterey-cell.github.io/Portfolio/assets/js/scripts.min.js?v&#x3D;1762f7ab131e33a4eb8fb224822de245"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:false,relatedContainerForOverlayMenuSelector:'.navbar'};</script><script>/*<![CDATA[*/var images=document.querySelectorAll("img[loading]");for(var i=0;i<images.length;i++){if(images[i].complete){images[i].classList.add("is-loaded")}else{images[i].addEventListener("load",function(){this.classList.add("is-loaded")},false)}};/*]]>*/</script></body></html>
+}</style></div></main><footer class="footer"><div class="footer__copyright">All published works in this site are made by yours truly. Lorem ipsum dolor sit amet. I see you reading this hello! Now scram.. Website powered by Publii.</div><div class="footer__social"></div></footer></div><script defer="defer" src="https://justincarlmonterey-cell.github.io/Portfolio/assets/js/scripts.min.js?v&#x3D;1762f7ab131e33a4eb8fb224822de245"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:false,relatedContainerForOverlayMenuSelector:'.navbar'};</script><script>/*<![CDATA[*/var images=document.querySelectorAll("img[loading]");for(var i=0;i<images.length;i++){if(images[i].complete){images[i].classList.add("is-loaded")}else{images[i].addEventListener("load",function(){this.classList.add("is-loaded")},false)}};/*]]>*/</script><script>document.addEventListener("DOMContentLoaded", function () {
+    const mercuryPosts = document.querySelectorAll('.c-card a, .feed__item a, .post__related a');
+    mercuryPosts.forEach(function (link) {
+      // Prevents tag links inside cards from opening in a new tab if you only want the post itself to do so
+      if (!link.classList.contains('c-card__tag') && !link.closest('.c-card__meta')) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  });</script></body></html>
